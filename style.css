@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.container{
+    padding: 150px 450px;
+}
+h1{
+    background-color: aqua;
+    text-align: center;
+}
+textarea{
+    width: 99.4%;
+}
+p{
+    text-align: center;
+    background-color: aqua;
+    padding:  20px 20px;
+    margin-top: -12px;
+}
+span{
+    font-weight: bolder;
+    color: black;
+    font-size: larger;
+}
